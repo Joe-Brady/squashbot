@@ -11,7 +11,7 @@ exports.config = {
   logLevel: "warn",
   deprecationWarnings: true,
   bail: 0,
-  baseUrl: `https://www.better.org.uk`,
+  baseUrl: `https://better.legendonlineservices.co.uk`,
   path: "/",
   waitforTimeout: 10000,
   connectionRetryTimeout: 90000,
