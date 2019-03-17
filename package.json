@@ -1,0 +1,15 @@
+{
+  "name": "squashbot",
+  "scripts": {
+    "start": "wdio ./ui-tests/wdio.conf.js",
+    "geckodriver:mac": "./ui-tests/geckodriver"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@wdio/cli": "5.3.4",
+    "@wdio/jasmine-framework": "5.3.2",
+    "@wdio/local-runner": "5.3.4",
+    "@wdio/spec-reporter": "5.2.3",
+    "@wdio/sync": "5.3.2"
+  }
+}
